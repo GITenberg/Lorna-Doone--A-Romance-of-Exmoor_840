@@ -1,5 +1,8 @@
 _repo: Lorna-Doone--A-Romance-of-Exmoor_840
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blackmore, R. D. (Richard Doddridge)
@@ -14,6 +17,8 @@ description: "Lorna Doone: A Romance of Exmoor is a novel by English author Rich
   \ characters and set in the late 17th century in Devon and Somerset, particularly\
   \ around the East Lyn Valley area of Exmoor. In 2003, the novel was listed on the\
   \ BBC's survey The Big Read.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/840#Lorna-Doone--A-Romance-of-Exmoor
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-04-27'
 gutenberg_type: Text
